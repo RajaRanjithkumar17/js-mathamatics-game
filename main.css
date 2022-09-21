@@ -1,0 +1,61 @@
+.flexbox{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.flex-contain{
+    width: 50%;
+    height: auto;
+    
+}
+.flex-contain select{
+    display: inline;
+    width: 100px;
+    height: auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.flex-contain button{
+    display: inline;
+    width: 100px;
+    height: auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.containin{
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-box{
+    width: 25%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.containinput{
+    border: 1px solid blue;
+    margin: 10px;
+    width: auto;
+   
+    
+    
+    
+    
+}
+.containinput h3{
+    text-align: center;
+}
+.containinput input{
+    display: inline-block;
+    width: 150px;
+    margin: 0 auto;
+    
+    
+}
