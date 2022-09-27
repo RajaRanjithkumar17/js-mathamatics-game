@@ -39,7 +39,7 @@
     align-items: center;
 }
 
-.containinput{
+#containinput{
     border: 1px solid blue;
     margin: 10px;
     width: auto;
@@ -49,10 +49,10 @@
     
     
 }
-.containinput h3{
+#containinput h3{
     text-align: center;
 }
-.containinput input{
+#containinput input{
     display: inline-block;
     width: 150px;
     margin: 0 auto;
